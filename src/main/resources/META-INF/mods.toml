@@ -6,7 +6,7 @@ showAsResourcePack=false
 
 [[mods]]
   modId="nwtweaks"
-  version="1.0.0.0"
+  version="${file.jarVersion}"
   displayName="New Wind Tweaks"
   #updateJSONURL="minecraftforge.net/versions.json"
   displayURL="github.com/HelldogPack"
