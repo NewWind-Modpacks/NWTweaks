@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License v3.0"
+#issueTrackerURL="github.com/MinecraftForge/MinecraftForge/issues"
+showAsResourcePack=false
+
+[[mods]]
+  modId="nwtweaks"
+  version="1.0.0.0"
+  displayName="New Wind Tweaks"
+  #updateJSONURL="minecraftforge.net/versions.json"
+  displayURL="github.com/HelldogPack"
+  #logoFile="logo.png"
+  #credits="I'd like to thank my mother and father."
+  authors="The New Wind Team"
+  description='''
+  A series of tweaks, modifications, additions for the NeWind modpacks.
+  '''
+  displayTest="MATCH_VERSION"
+
+  [[dependencies.examplenwtweaksmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+  [[dependencies.nwtweaks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16,)"
+    ordering="NONE"
+    side="BOTH"

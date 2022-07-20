@@ -1,0 +1,7 @@
+{
+	"block.nwtweaks.fake_command_block": "Command Block Replica",
+	"block.nwtweaks.crafted_command_block": "Scrap Command Block",
+	"block.nwtweaks.ender_command_block": "Ender Command Block",
+	"description.nwtweaks.crafted_command_block": "Requires a soul.",
+	"description.nwtweaks.ender_command_block": "§cWARNING!!! This block can't be mined after it's been placed!§r\nSeek the ingredients of the Formidibomb after correctly using this block.\n\n§5The calm before the storm...§r"
+}

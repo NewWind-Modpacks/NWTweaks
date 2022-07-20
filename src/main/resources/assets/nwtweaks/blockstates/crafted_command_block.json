@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "nwtweaks:block/crafted_command_block"
+    }
+  }
+}

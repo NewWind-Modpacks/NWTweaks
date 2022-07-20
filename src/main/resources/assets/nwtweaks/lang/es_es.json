@@ -1,0 +1,7 @@
+{
+	"block.nwtweaks.fake_command_block": "Replica de bloque de comandos",
+	"block.nwtweaks.crafted_command_block": "Bloque de comandos chatarrero",
+	"block.nwtweaks.ender_command_block": "Bloque de comandos de ender",
+	"description.nwtweaks.crafted_command_block": "Necesita un alma.",
+	"description.nwtweaks.ender_command_block": "§cAVISO!!! Este bloque no se puede romper despues de ser colocado!§r\nEncuentra los ingredientes de la Formidibomba despues de usar correctamente este bloque.\n\n§5La calma antes de la tormenta...§r"
+}

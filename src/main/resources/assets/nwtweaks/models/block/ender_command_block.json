@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "nwtweaks:block/ender_command_block"
+  }
+}
